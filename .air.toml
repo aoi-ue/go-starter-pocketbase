@@ -25,3 +25,10 @@ time = true
 [misc]
 # Delete tmp directory on exit
 clean_on_exit = false
+
+
+[color]
+  build = "yellow"
+  main = "magenta"
+  runner = "green"
+  watcher = "cyan"
